@@ -19,7 +19,7 @@ const changeStore = () => {
   store.u_info.id = user_info.id
 }
 const i_change = () => {
-  console.log('change',user_info.name)
+  console.log('change', user_info.name)
   store.u_info = user_info
 }
 onMounted(() => {
