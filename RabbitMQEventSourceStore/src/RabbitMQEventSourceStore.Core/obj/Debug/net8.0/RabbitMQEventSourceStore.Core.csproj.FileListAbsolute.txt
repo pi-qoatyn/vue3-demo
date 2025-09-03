@@ -1,0 +1,13 @@
+/workspace/RabbitMQEventSourceStore/src/RabbitMQEventSourceStore.Core/obj/Debug/net8.0/RabbitMQEventSourceStore.Core.csproj.AssemblyReference.cache
+/workspace/RabbitMQEventSourceStore/src/RabbitMQEventSourceStore.Core/obj/Debug/net8.0/RabbitMQEventSourceStore.Core.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/RabbitMQEventSourceStore/src/RabbitMQEventSourceStore.Core/obj/Debug/net8.0/RabbitMQEventSourceStore.Core.AssemblyInfoInputs.cache
+/workspace/RabbitMQEventSourceStore/src/RabbitMQEventSourceStore.Core/obj/Debug/net8.0/RabbitMQEventSourceStore.Core.AssemblyInfo.cs
+/workspace/RabbitMQEventSourceStore/src/RabbitMQEventSourceStore.Core/obj/Debug/net8.0/RabbitMQEventSourceStore.Core.csproj.CoreCompileInputs.cache
+/workspace/RabbitMQEventSourceStore/src/RabbitMQEventSourceStore.Core/obj/Debug/net8.0/RabbitMQEventSourceStore.Core.sourcelink.json
+/workspace/RabbitMQEventSourceStore/src/RabbitMQEventSourceStore.Core/bin/Debug/net8.0/RabbitMQEventSourceStore.Core.deps.json
+/workspace/RabbitMQEventSourceStore/src/RabbitMQEventSourceStore.Core/bin/Debug/net8.0/RabbitMQEventSourceStore.Core.dll
+/workspace/RabbitMQEventSourceStore/src/RabbitMQEventSourceStore.Core/bin/Debug/net8.0/RabbitMQEventSourceStore.Core.pdb
+/workspace/RabbitMQEventSourceStore/src/RabbitMQEventSourceStore.Core/obj/Debug/net8.0/RabbitMQEventSourceStore.Core.dll
+/workspace/RabbitMQEventSourceStore/src/RabbitMQEventSourceStore.Core/obj/Debug/net8.0/refint/RabbitMQEventSourceStore.Core.dll
+/workspace/RabbitMQEventSourceStore/src/RabbitMQEventSourceStore.Core/obj/Debug/net8.0/RabbitMQEventSourceStore.Core.pdb
+/workspace/RabbitMQEventSourceStore/src/RabbitMQEventSourceStore.Core/obj/Debug/net8.0/ref/RabbitMQEventSourceStore.Core.dll
